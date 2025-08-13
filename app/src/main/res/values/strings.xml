@@ -2,4 +2,5 @@
     <string name="app_name">codepath_prework_and102</string>
     <string name="emily_message">Hello world! My name is Emily. I love Android development and golden retrievers.</string>
     <string name="say_hello">SAY HELLO!</string>
+    <string name="emily_image_description">An image of Emily</string>
 </resources>
